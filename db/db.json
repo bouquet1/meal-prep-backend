@@ -90,3 +90,135 @@
     ],
     }
   
+
+    /*
+    example db json with array
+    {
+  "pokemon": [
+    {
+      "id": 1,
+      "name": "Bulbusaur",
+      "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/001.png",
+      "description": "There is a plant seed on its back right from the day this Pokémon is born. The seed slowly grows larger.",
+      "height": "2' 04\"",
+      "weight": "15.2 lbs",
+      "category": "Seed",
+      "abilities": [
+        {
+          "name": "Overgrow",
+          "description": "Powers up Grass-type moves when the Pokémon's HP is low."
+        }
+      ],
+      "favorited": false,
+      "type": [
+        "Grass",
+        "Poison"
+      ],
+      "weaknesses": [
+        "Fire",
+        "Psychic",
+        "Flying",
+        "Ice"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Ivysaur",
+      "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/002.png",
+      "description": "When the bulb on its back grows large, it appears to lose the ability to stand on its hind legs.",
+      "height": "3' 03\"",
+      "weight": "28.7 lbs",
+      "category": "Seed",
+      "abilities": [
+        {
+          "name": "Overgrow",
+          "description": "Powers up Grass-type moves when the Pokémon's HP is low."
+        }
+      ],
+      "favorited": false,
+      "type": [
+        "Grass",
+        "Poison"
+      ],
+      "weaknesses": [
+        "Fire",
+        "Psychic",
+        "Flying",
+        "Ice"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Venusaur",
+      "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/003.png",
+      "description": "Its plant blooms when it is absorbing solar energy. It stays on the move to seek sunlight.",
+      "height": "6' 07\"",
+      "weight": "220.5 lbs",
+      "category": "Seed",
+      "abilities": [
+        {
+          "name": "Overgrow",
+          "description": "Powers up Grass-type moves when the Pokémon's HP is low."
+        }
+      ],
+      "favorited": false,
+      "type": [
+        "Grass",
+        "Poison"
+      ],
+      "weaknesses": [
+        "Fire",
+        "Psychic",
+        "Flying",
+        "Ice"
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Charmander",
+      "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/004.png",
+      "description": "It has a preference for hot things. When it rains, steam is said to spout from the tip of its tail.",
+      "height": "2' 00\"",
+      "weight": "18.7 lbs",
+      "category": "Lizard",
+      "abilities": [
+        {
+          "name": "Blaze",
+          "description": "Powers up Fire-type moves when the Pokémon's HP is low."
+        }
+      ],
+      "favorited": false,
+      "type": [
+        "Fire"
+      ],
+      "weaknesses": [
+        "Water",
+        "Ground",
+        "Rock"
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Charmeleon",
+      "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/005.png",
+      "description": "It has a barbaric nature. In battle, it whips its fiery tail around and slashes away with sharp claws.",
+      "height": "3' 07\"",
+      "weight": "41.9 lbs",
+      "category": "Flame",
+      "abilities": [
+        {
+          "name": "Blaze",
+          "description": "Powers up Fire-type moves when the Pokémon's HP is low."
+        }
+      ],
+      "favorited": false,
+      "type": [
+        "Fire"
+      ],
+      "weaknesses": [
+        "Water",
+        "Ground",
+        "Rock"
+      ]
+    }
+    */
