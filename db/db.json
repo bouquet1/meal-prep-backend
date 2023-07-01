@@ -1,207 +1,64 @@
 {
-  "toys": [
+  "breakfast": [
     {
-      "id": 1,
-      "name": "Woody",
-      "image": "http://www.pngmart.com/files/3/Toy-Story-Woody-PNG-Photos.png",
-      "likes": 8
+      "id": "1",
+      "name": "Ham and Swiss Omelet",
+      "totalPrepTime": "18 min",
+      "directions1": "In a small nonstick skillet, melt butter over medium-high heat. Whisk the eggs, water, salt and pepper. Add egg mixture to skillet (mixture should set immediately at edges). As eggs set, push cooked edges toward the center, letting uncooked portion flow underneath. When the eggs are set, place ham on one side and sprinkle with cheese; fold other side over filling. Slide omelet onto a plate.",
+      "directions2": "As eggs set, push cooked edges toward the center, letting uncooked portion flow underneath. When the eggs are set, place ham on one side and sprinkle with cheese; fold other side over filling. Slide omelet onto a plate.",
+      "ingredients": [ "1 tbsp butter", "3 eggs", "1/2 cup cubed fully cooked ham", "1/4 cup shredded Swiss cheese", "3 tbsp water", "1/8 teaspoon salt", "1/8 teaspoon pepper" ],
+      "image": "https://www.tasteofhome.com/wp-content/uploads/2018/01/Ham-and-Swiss-Omelet_exps90569_Webcard1306_07_2bC_RMS-8.jpg?fit=700,1024",
+      "nutritionFacts": "1 omelet: 530 calories, 40g fat (19g saturated fat), 726mg cholesterol, 1551mg sodium, 4g carbohydrate (2g sugars, 0 fiber), 39g protein"
     },
     {
-      "id": 2,
-      "name": "Buzz Lightyear",
-      "image": "http://www.pngmart.com/files/6/Buzz-Lightyear-PNG-Transparent-Picture.png",
-      "likes": 14
+      "id": "2",
+      "name": "Rise and Shine Parfait",
+      "totalPrepTime": "15 min",
+      "directions1": "Layer half the yogurt, peaches, blackberries and granola into 4 parfait glasses. Repeat layers.",
+      "ingredients": [ "2 medium peaches, chopped", "2 cups fresh blackberries", "1/2 cup granola without raisins or Kashi Go Lean Crunch cereal" ],
+      "image": "https://www.tasteofhome.com/wp-content/uploads/2018/01/Rise-and-Shine-Parfait_EXPS_BBBZ16_178121_C07_08_4b.jpg?fit=700,1024",
+      "nutritionFacts": "1 serving: 259 calories, 3g fat (0 saturated fat), 7mg cholesterol, 6mg sodium, 48g carbohydrate (27g sugars, 7g fiber), 13g protein."
     },
     {
-      "id": 3,
-      "name": "Mr. Potato Head",
-      "image": "https://vignette.wikia.nocookie.net/universe-of-smash-bros-lawl/images/d/d8/Mr-potato-head-toy-story.gif/revision/latest?cb=20151129131217",
-      "likes": 3
+      "id": "3",
+      "name": "Cuban Breakfast Sandwiches",
+      "totalPrepTime": "20 min",
+      "directions1": "Split bread in half lengthwise; cut into 4 pieces. In a large skillet coated with cooking spray, fry eggs until yolks are set.",
+      "directions2": "Layer bread bottoms with salami, ham, egg and cheese; replace tops. Cook on a panini maker or indoor grill for 2 minutes or until bread is browned and cheese is melted.",
+      "ingredients": [ "1 loaf (1 pound) Cuban or French bread", "4 large eggs", "16 pieces thinly sliced hard salami", "8 slices deli ham", "8 slices Swiss cheese"],
+      "image": "https://www.tasteofhome.com/wp-content/uploads/2018/01/Cuban-Breakfast-Sandwiches_exps80363_SD2401789A08_10_2bC_RMS-11.jpg?fit=700,1024",
+      "nutritionFacts": "1 sandwich: 697 calories, 29g fat (12g saturated fat), 280mg cholesterol, 1949mg sodium, 61g carbohydrate (1g sugars, 3g fiber), 43g protein."
+    }
+  ],
+  "lunch": [
+    {
+      "id": "1",
+      "name": "Chicken with Rosemary Butter Sauce",
+      "totalPrepTime": "25 min",
+      "directions1": "In a large skillet over medium heat, cook chicken in 1 tablespoon butter until a thermometer reads 165°, 4-5 minutes on each side. Remove and keep warm.",
+      "directions2": "Add wine to pan; cook over medium-low heat, stirring to loosen browned bits from pan. Add cream and bring to a boil. Reduce heat; cook and stir until slightly thickened. Stir in rosemary and remaining 3 tablespoons butter until blended. Serve sauce with chicken.",
+      "ingredients": [ "4 boneless skinless chicken breast halves", "4 tablespoons butter, divided", "1/2 cup white wine or chicken broth", "1/2 cup heavy whipping cream", "1 tablespoon minced fresh rosemary" ],
+      "image": "https://www.tasteofhome.com/wp-content/uploads/2018/01/Chicken-with-Rosemary-Butter-Sauce_EXPS_FT20_44349_F_0123_1-6.jpg?fit=700,1024",
+      "nutritionFacts": "1 chicken breast half: 411 calories, 26g fat (15g saturated fat), 158mg cholesterol, 183mg sodium, 2g carbohydrate (1g sugars, 0 fiber), 35g protein."
     },
     {
-      "id": 4,
-      "name": "Slinky Dog",
-      "image": "https://www.freeiconspng.com/uploads/slinky-png-transparent-1.png",
-      "likes": 4
+      "id": "2",
+      "name": "Fast Baked Fish",
+      "totalPrepTime": "25 min",
+      "directions1": "",
+      "ingredients": [ "1-1/4 pounds fish fillets", "3 tablespoons butter, melted", "Pepper to taste", "1 teaspoon seasoned salt", "Paprika, optional" ],
+      "image": "https://www.tasteofhome.com/wp-content/uploads/2018/01/Fast-Baked-Fish_EXPS_DIYD20_9049_B01_16_1b-2.jpg?resize=696,696",
+      "nutritionFacts": "1 serving: 259 calories, 3g fat (0 saturated fat), 7mg cholesterol, 6mg sodium, 48g carbohydrate (27g sugars, 7g fiber), 13g protein."
     },
     {
-      "id": 5,
-      "name": "Rex",
-      "image": "http://umich.edu/~chemh215/W11HTML/SSG5/ssg5.2/FRex.png",
-      "likes": 1
-    },
-    {
-      "id": 6,
-      "name": "Bo Peep",
-      "image": "http://4.bp.blogspot.com/_OZHbJ8c71OM/Sog43CMFX2I/AAAAAAAADEs/0AKX0XslD4g/s400/bo.png",
-      "likes": 2
+      "id": "3",
+      "name": "Cuban Breakfast Sandwiches",
+      "totalPrepTime": "20 min",
+      "directions1": "Split bread in half lengthwise; cut into 4 pieces. In a large skillet coated with cooking spray, fry eggs until yolks are set.",
+      "directions2": "Layer bread bottoms with salami, ham, egg and cheese; replace tops. Cook on a panini maker or indoor grill for 2 minutes or until bread is browned and cheese is melted.",
+      "ingredients": [ "1 loaf (1 pound) Cuban or French bread", "4 large eggs", "16 pieces thinly sliced hard salami", "8 slices deli ham", "8 slices Swiss cheese"],
+      "image": "https://www.tasteofhome.com/wp-content/uploads/2018/01/Cuban-Breakfast-Sandwiches_exps80363_SD2401789A08_10_2bC_RMS-11.jpg?fit=700,1024",
+      "nutritionFacts": "1 sandwich: 697 calories, 29g fat (12g saturated fat), 280mg cholesterol, 1949mg sodium, 61g carbohydrate (1g sugars, 3g fiber), 43g protein."
     }
   ]
-},
-{
-  "meals": [
-    {
-      "idMeal":"52771",
-      "strMeal":"Spicy Arrabiata Penne",
-      "strDrinkAlternate":null,
-      "strCategory":"Vegetarian",
-      "strArea":"Italian",
-      "strInstructions":"Bring a large pot of water to a boil. Add kosher salt to the boiling water, then add the pasta. Cook according to the package instructions, about 9 minutes.\r\nIn a large skillet over medium-high heat, add the olive oil and heat until the oil starts to shimmer. Add the garlic and cook, stirring, until fragrant, 1 to 2 minutes. Add the chopped tomatoes, red chile flakes, Italian seasoning and salt and pepper to taste. Bring to a boil and cook for 5 minutes. Remove from the heat and add the chopped basil.\r\nDrain the pasta and add it to the sauce. Garnish with Parmigiano-Reggiano flakes and more basil and serve warm.",
-      "strMealThumb":"https:\/\/www.themealdb.com\/images\/media\/meals\/ustsqw1468250014.jpg",
-      "strTags":"Pasta,Curry",
-      "strYoutube":"https:\/\/www.youtube.com\/watch?v=1IszT_guI08",
-      "strIngredient1":"penne rigate",
-      "strIngredient2":"olive oil",
-      "strIngredient3":"garlic",
-      "strIngredient4":"chopped tomatoes",
-      "strIngredient5":"red chile flakes",
-      "strIngredient6":"italian seasoning",
-      "strIngredient7":"basil",
-      "strIngredient8":"Parmigiano-Reggiano",
-      "strIngredient9":"",
-      "strIngredient10":"",
-      "strMeasure1":"1 pound",
-      "strMeasure2":"1\/4 cup",
-      "strMeasure3":"3 cloves",
-      "strMeasure4":"1 tin ",
-      "strMeasure5":"1\/2 teaspoon",
-      "strMeasure6":"1\/2 teaspoon",
-      "strMeasure7":"6 leaves",
-      "strMeasure8":"spinkling",
-      "strMeasure9":"",
-      "strMeasure10":"",
-      "strSource":null,"
-      strImageSource":null,"
-      strCreativeCommonsConfirmed":null,
-      "dateModified":null}
-    ],
-    },
-    {
-  "pokemon": [
-    {
-      "id": 1,
-      "name": "Bulbusaur",
-      "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/001.png",
-      "description": "There is a plant seed on its back right from the day this Pokémon is born. The seed slowly grows larger.",
-      "height": "2' 04\"",
-      "weight": "15.2 lbs",
-      "category": "Seed",
-      "abilities": [
-        {
-          "name": "Overgrow",
-          "description": "Powers up Grass-type moves when the Pokémon's HP is low."
-        }
-      ],
-      "favorited": false,
-      "type": [
-        "Grass",
-        "Poison"
-      ],
-      "weaknesses": [
-        "Fire",
-        "Psychic",
-        "Flying",
-        "Ice"
-      ]
-    },
-    {
-      "id": 2,
-      "name": "Ivysaur",
-      "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/002.png",
-      "description": "When the bulb on its back grows large, it appears to lose the ability to stand on its hind legs.",
-      "height": "3' 03\"",
-      "weight": "28.7 lbs",
-      "category": "Seed",
-      "abilities": [
-        {
-          "name": "Overgrow",
-          "description": "Powers up Grass-type moves when the Pokémon's HP is low."
-        }
-      ],
-      "favorited": false,
-      "type": [
-        "Grass",
-        "Poison"
-      ],
-      "weaknesses": [
-        "Fire",
-        "Psychic",
-        "Flying",
-        "Ice"
-      ]
-    },
-    {
-      "id": 3,
-      "name": "Venusaur",
-      "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/003.png",
-      "description": "Its plant blooms when it is absorbing solar energy. It stays on the move to seek sunlight.",
-      "height": "6' 07\"",
-      "weight": "220.5 lbs",
-      "category": "Seed",
-      "abilities": [
-        {
-          "name": "Overgrow",
-          "description": "Powers up Grass-type moves when the Pokémon's HP is low."
-        }
-      ],
-      "favorited": false,
-      "type": [
-        "Grass",
-        "Poison"
-      ],
-      "weaknesses": [
-        "Fire",
-        "Psychic",
-        "Flying",
-        "Ice"
-      ]
-    },
-    {
-      "id": 4,
-      "name": "Charmander",
-      "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/004.png",
-      "description": "It has a preference for hot things. When it rains, steam is said to spout from the tip of its tail.",
-      "height": "2' 00\"",
-      "weight": "18.7 lbs",
-      "category": "Lizard",
-      "abilities": [
-        {
-          "name": "Blaze",
-          "description": "Powers up Fire-type moves when the Pokémon's HP is low."
-        }
-      ],
-      "favorited": false,
-      "type": [
-        "Fire"
-      ],
-      "weaknesses": [
-        "Water",
-        "Ground",
-        "Rock"
-      ]
-    },
-    {
-      "id": 5,
-      "name": "Charmeleon",
-      "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/005.png",
-      "description": "It has a barbaric nature. In battle, it whips its fiery tail around and slashes away with sharp claws.",
-      "height": "3' 07\"",
-      "weight": "41.9 lbs",
-      "category": "Flame",
-      "abilities": [
-        {
-          "name": "Blaze",
-          "description": "Powers up Fire-type moves when the Pokémon's HP is low."
-        }
-      ],
-      "favorited": false,
-      "type": [
-        "Fire"
-      ],
-      "weaknesses": [
-        "Water",
-        "Ground",
-        "Rock"
-      ]
-   ] }
-    
+}
