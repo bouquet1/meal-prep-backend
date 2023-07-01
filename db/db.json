@@ -6,7 +6,7 @@
       "totalPrepTime": "18 min",
       "directions1": "In a small nonstick skillet, melt butter over medium-high heat. Whisk the eggs, water, salt and pepper. Add egg mixture to skillet (mixture should set immediately at edges). As eggs set, push cooked edges toward the center, letting uncooked portion flow underneath. When the eggs are set, place ham on one side and sprinkle with cheese; fold other side over filling. Slide omelet onto a plate.",
       "directions2": "As eggs set, push cooked edges toward the center, letting uncooked portion flow underneath. When the eggs are set, place ham on one side and sprinkle with cheese; fold other side over filling. Slide omelet onto a plate.",
-      "ingredients": [ "1 tbsp butter", "3 eggs", "1/2 cup cubed fully cooked ham", "1/4 cup shredded Swiss cheese", "3 tbsp water", "1/8 teaspoon salt", "1/8 teaspoon pepper" ],
+      "ingredients": [ "Butter, 1 tbsp ", "Eggs, 3", "Fully cooked ham, 1/2 cup, cubed ", "Shredded Swiss cheese, 1/4 cup", "Water, 3 tbsp", "Salt, 1/8 teaspoon", "Crushed Black Pepper, 1/8 teaspoon" ],
       "image": "https://www.tasteofhome.com/wp-content/uploads/2018/01/Ham-and-Swiss-Omelet_exps90569_Webcard1306_07_2bC_RMS-8.jpg?fit=700,1024",
       "nutritionFacts": "1 omelet: 530 calories, 40g fat (19g saturated fat), 726mg cholesterol, 1551mg sodium, 4g carbohydrate (2g sugars, 0 fiber), 39g protein"
     },
@@ -15,7 +15,7 @@
       "name": "Rise and Shine Parfait",
       "totalPrepTime": "15 min",
       "directions1": "Layer half the yogurt, peaches, blackberries and granola into 4 parfait glasses. Repeat layers.",
-      "ingredients": [ "2 medium peaches, chopped", "2 cups fresh blackberries", "1/2 cup granola without raisins or Kashi Go Lean Crunch cereal" ],
+      "ingredients": [ "Peaches, 2 medium, chopped", "Fresh blackberries, 2 cups", "Your preference of cereal, 1/2 cup " ],
       "image": "https://www.tasteofhome.com/wp-content/uploads/2018/01/Rise-and-Shine-Parfait_EXPS_BBBZ16_178121_C07_08_4b.jpg?fit=700,1024",
       "nutritionFacts": "1 serving: 259 calories, 3g fat (0 saturated fat), 7mg cholesterol, 6mg sodium, 48g carbohydrate (27g sugars, 7g fiber), 13g protein."
     },
@@ -25,7 +25,7 @@
       "totalPrepTime": "20 min",
       "directions1": "Split bread in half lengthwise; cut into 4 pieces. In a large skillet coated with cooking spray, fry eggs until yolks are set.",
       "directions2": "Layer bread bottoms with salami, ham, egg and cheese; replace tops. Cook on a panini maker or indoor grill for 2 minutes or until bread is browned and cheese is melted.",
-      "ingredients": [ "1 loaf (1 pound) Cuban or French bread", "4 large eggs", "16 pieces thinly sliced hard salami", "8 slices deli ham", "8 slices Swiss cheese"],
+      "ingredients": [ "Cuban or French bread, 1 loaf (1 pound) ", "Eggs, 4 large ", "Hard salami, 16 pieces, thinly sliced ", "Deli ham, 8 slices ", "Swiss cheese, 8 slices" ],
       "image": "https://www.tasteofhome.com/wp-content/uploads/2018/01/Cuban-Breakfast-Sandwiches_exps80363_SD2401789A08_10_2bC_RMS-11.jpg?fit=700,1024",
       "nutritionFacts": "1 sandwich: 697 calories, 29g fat (12g saturated fat), 280mg cholesterol, 1949mg sodium, 61g carbohydrate (1g sugars, 3g fiber), 43g protein."
     }
@@ -37,7 +37,7 @@
       "totalPrepTime": "25 min",
       "directions1": "In a large skillet over medium heat, cook chicken in 1 tablespoon butter until a thermometer reads 165°, 4-5 minutes on each side. Remove and keep warm.",
       "directions2": "Add wine to pan; cook over medium-low heat, stirring to loosen browned bits from pan. Add cream and bring to a boil. Reduce heat; cook and stir until slightly thickened. Stir in rosemary and remaining 3 tablespoons butter until blended. Serve sauce with chicken.",
-      "ingredients": [ "4 boneless skinless chicken breast halves", "4 tablespoons butter, divided", "1/2 cup white wine or chicken broth", "1/2 cup heavy whipping cream", "1 tablespoon minced fresh rosemary" ],
+      "ingredients": [ "Boneless skinless chicken breast halves, 4 pieces", "Butter, 4 TBsp, divided", "White wine/chicken broth, 1/2 cup ", "Heavy whipping cream, 1/2 cup ", "Minced fresh rosemary, 1 TBsp" ],
       "image": "https://www.tasteofhome.com/wp-content/uploads/2018/01/Chicken-with-Rosemary-Butter-Sauce_EXPS_FT20_44349_F_0123_1-6.jpg?fit=700,1024",
       "nutritionFacts": "1 chicken breast half: 411 calories, 26g fat (15g saturated fat), 158mg cholesterol, 183mg sodium, 2g carbohydrate (1g sugars, 0 fiber), 35g protein."
     },
@@ -45,8 +45,9 @@
       "id": "2",
       "name": "Fast Baked Fish",
       "totalPrepTime": "25 min",
-      "directions1": "",
-      "ingredients": [ "1-1/4 pounds fish fillets", "3 tablespoons butter, melted", "Pepper to taste", "1 teaspoon seasoned salt", "Paprika, optional" ],
+      "directions1": "Preheat oven to 400°. Place fish in a greased 11x7-in. baking dish. Sprinkle with seasoned salt, pepper and, if desired, paprika. Drizzle with butter.",
+      "directions2": "Cover and bake until fish just begins to flake easily with a fork, 15-20 minutes.",
+      "ingredients": [ "Fish fillets, 1-1/4 pounds", "Butter, 3 TBsp, melted", "Crushed Black Pepper, a pinch to taste", "Seasoned salt, 1 tsp", "Paprika, 1 TBsp, optional" ],
       "image": "https://www.tasteofhome.com/wp-content/uploads/2018/01/Fast-Baked-Fish_EXPS_DIYD20_9049_B01_16_1b-2.jpg?resize=696,696",
       "nutritionFacts": "1 serving: 259 calories, 3g fat (0 saturated fat), 7mg cholesterol, 6mg sodium, 48g carbohydrate (27g sugars, 7g fiber), 13g protein."
     },
@@ -56,9 +57,42 @@
       "totalPrepTime": "20 min",
       "directions1": "Split bread in half lengthwise; cut into 4 pieces. In a large skillet coated with cooking spray, fry eggs until yolks are set.",
       "directions2": "Layer bread bottoms with salami, ham, egg and cheese; replace tops. Cook on a panini maker or indoor grill for 2 minutes or until bread is browned and cheese is melted.",
-      "ingredients": [ "1 loaf (1 pound) Cuban or French bread", "4 large eggs", "16 pieces thinly sliced hard salami", "8 slices deli ham", "8 slices Swiss cheese"],
+      "ingredients": [ "Cuban or French bread, 1 loaf (1 pound) ", "Eggs, 4 large ", "Hard salami, 16 pieces, thinly sliced ", "Deli ham, 8 slices ", "Swiss cheese, 8 slices "],
       "image": "https://www.tasteofhome.com/wp-content/uploads/2018/01/Cuban-Breakfast-Sandwiches_exps80363_SD2401789A08_10_2bC_RMS-11.jpg?fit=700,1024",
       "nutritionFacts": "1 sandwich: 697 calories, 29g fat (12g saturated fat), 280mg cholesterol, 1949mg sodium, 61g carbohydrate (1g sugars, 3g fiber), 43g protein."
+    }
+  ],
+  "dinner": [
+    {
+      "id": "1",
+      "name": "Taco Pizza Squares",
+      "totalPrepTime": "25 min",
+      "directions1": "Unroll pizza dough and place in a 15x10x1-in. baking pan. Spread with pizza sauce; sprinkle with the taco meat, tomatoes and cheese.",
+      "directions2": "Bake at 400° until crust is golden brown, 15-20 minutes. Top with shredded lettuce and sour cream if desired.",
+      "ingredients": [ "Refrigerated pizza crust, 1 tube (13.8 ounces)", "Pizza sauce, 1 can (8 ounces)", "Seasoned taco meat, 2 cups", "Tomatoes, 2 medium size, seeded and chopped", "Shredded mozzarella cheese, 2 cups", "Shredded lettuce, optional", "Sour cream, optional" ],
+      "image": "https://www.tasteofhome.com/wp-content/uploads/2018/01/Taco-Pizza-Squares_EXPS_BFBZ19_17840_E01_18_2b-4.jpg?fit=700,1024",
+      "nutritionFacts": "1 piece: 259 calories, 11g fat (5g saturated fat), 40mg cholesterol, 660mg sodium, 23g carbohydrate (4g sugars, 2g fiber), 17g protein."
+    },
+    {
+      "id": "2",
+      "name": "Orange Pomegranate Salmon",
+      "totalPrepTime": "35 min",
+      "directions1": "Preheat oven to 375°. Place a 28x18-in. piece of heavy-duty foil in a 15x10x1-in. baking pan. Place onion slices in a single layer on foil. Top with salmon; sprinkle with salt. Arrange orange slices over top.",
+      "directions2": " Sprinkle with pomegranate seeds; drizzle with oil. Top with a second piece of foil. Bring edges of foil together on all sides and crimp to seal, forming a large packet.",
+      "directions3": "Bake until fish just begins to flake easily with a fork, 25-30 minutes. Be careful of escaping steam when opening packet. Remove to a serving platter; sprinkle with dill.",
+      "ingredients": [ "Skinned salmon fillet, about 2 pounds", "Red onion, 1 small, thinly sliced", "Navel orange, 1 medium, thinly sliced", "Pomegranate seeds, 1 cup", "Extra virgin olive oil, 2 TBsp", "Minced fresh dill, 1 TBsp", "Salt, 1/2 tsp" ],
+      "image": "https://www.tasteofhome.com/wp-content/uploads/2018/01/Orange-Pomegranate-Salmon_EXPS_THCA18_180303_B01_11_1b-1.jpg?fit=700,1024",
+      "nutritionFacts": "4 ounces cooked salmon: 307 calories, 19g fat (3g saturated fat), 76mg cholesterol, 274mg sodium, 8g carbohydrate (6g sugars, 1g fiber), 26g protein. Diabetic Exchanges: 4 lean meat, 1-1/2 fat, 1/2 fruit."
+    },
+    {
+      "id": "3",
+      "name": "Cranberry Maple Chicken",
+      "totalPrepTime": "30 min",
+      "directions1": "In a small saucepan, combine the cranberries, water and sugar. Cook over medium heat until berries pop, about 15 minutes.",
+      "directions2": "Meanwhile, sprinkle chicken with salt and pepper. In a large nonstick skillet, cook chicken in oil over medium heat until juices run clear, 4-5 minutes on each side. Stir syrup into cranberry mixture; serve with chicken.",
+      "ingredients": [ "Fresh/Frozen cranberries, 2 cups ", "Boneless skinless chicken breast, 6 medium pieces", "Maple Syrup, 1/4 cup", "Canola oil, 1 tbsp", "Sugar, 1/3 cup", "Water, 3/4 cups", "Salt, 1/2 tsp", "Crushed Black Pepper, 1/4 tsp" ],
+      "image": "https://www.tasteofhome.com/wp-content/uploads/2018/01/Cranberry-Maple-Chicken_EXPS_SDDJ19_32962_C07_13_6b-12.jpg?fit=700,1024",
+      "nutritionFacts": "1 chicken breast half with 3 tablespoons sauce: 236 calories, 5g fat (1g saturated fat), 63mg cholesterol, 253mg sodium, 24g carbohydrate (22g sugars, 1g fiber), 23g protein."
     }
   ]
 }
