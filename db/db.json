@@ -30,7 +30,7 @@
       "nutritionFacts": "1 sandwich: 697 calories, 29g fat (12g saturated fat), 280mg cholesterol, 1949mg sodium, 61g carbohydrate (1g sugars, 3g fiber), 43g protein."
     }
   ],
-  "lunch": [
+  "lunches": [
     {
       "id": "1",
       "name": "Chicken with Rosemary Butter Sauce",
@@ -62,7 +62,7 @@
       "nutritionFacts": "1 sandwich: 697 calories, 29g fat (12g saturated fat), 280mg cholesterol, 1949mg sodium, 61g carbohydrate (1g sugars, 3g fiber), 43g protein."
     }
   ],
-  "dinner": [
+  "dinners": [
     {
       "id": "1",
       "name": "Taco Pizza Squares",
