@@ -1,12 +1,12 @@
 {
-  "breakfasts": [
+  "breakfastRecipes": [
     {
       "id": "1",
       "name": "Ham and Swiss Omelet",
       "totalPrepTime": "18 min",
       "directions1": "In a small nonstick skillet, melt butter over medium-high heat. Whisk the eggs, water, salt and pepper. Add egg mixture to skillet (mixture should set immediately at edges). As eggs set, push cooked edges toward the center, letting uncooked portion flow underneath. When the eggs are set, place ham on one side and sprinkle with cheese; fold other side over filling. Slide omelet onto a plate.",
       "directions2": "As eggs set, push cooked edges toward the center, letting uncooked portion flow underneath. When the eggs are set, place ham on one side and sprinkle with cheese; fold other side over filling. Slide omelet onto a plate.",
-      "ingredients": [ "Butter, 1 tbsp ", "Eggs, 3", "Fully cooked ham, 1/2 cup, cubed ", "Shredded Swiss cheese, 1/4 cup", "Water, 3 tbsp", "Salt, 1/8 teaspoon", "Crushed Black Pepper, 1/8 teaspoon" ],
+      "ingredients": [ "Butter, 1 tbsp ", "Eggs, 3", "Fully cooked ham, 1/2 cup, cubed ", "Shredded Swiss cheese, 1/4 cup", "Water, 3 TBsp", "Salt, 1/8 tsp", "Crushed Black Pepper, 1/8 teaspoon" ],
       "image": "https://www.tasteofhome.com/wp-content/uploads/2018/01/Ham-and-Swiss-Omelet_exps90569_Webcard1306_07_2bC_RMS-8.jpg?fit=700,1024",
       "nutritionFacts": "1 omelet: 530 calories, 40g fat (19g saturated fat), 726mg cholesterol, 1551mg sodium, 4g carbohydrate (2g sugars, 0 fiber), 39g protein"
     },
@@ -30,7 +30,7 @@
       "nutritionFacts": "1 sandwich: 697 calories, 29g fat (12g saturated fat), 280mg cholesterol, 1949mg sodium, 61g carbohydrate (1g sugars, 3g fiber), 43g protein."
     }
   ],
-  "lunches": [
+  "lunchRecipes": [
     {
       "id": "1",
       "name": "Chicken with Rosemary Butter Sauce",
@@ -62,7 +62,7 @@
       "nutritionFacts": "1 sandwich: 697 calories, 29g fat (12g saturated fat), 280mg cholesterol, 1949mg sodium, 61g carbohydrate (1g sugars, 3g fiber), 43g protein."
     }
   ],
-  "dinners": [
+  "dinnerRecipes": [
     {
       "id": "1",
       "name": "Taco Pizza Squares",
