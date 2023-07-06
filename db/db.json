@@ -2,7 +2,7 @@
   "breakfastRecipes": [
     {
       "id": "1",
-      "name": "Ham and Swiss Omelet",
+      "recipeName": "Ham and Swiss Omelet",
       "totalPrepTime": "18 min",
       "directions1": "In a small nonstick skillet, melt butter over medium-high heat. Whisk the eggs, water, salt and pepper. Add egg mixture to skillet (mixture should set immediately at edges). As eggs set, push cooked edges toward the center, letting uncooked portion flow underneath. When the eggs are set, place ham on one side and sprinkle with cheese; fold other side over filling. Slide omelet onto a plate.",
       "directions2": "As eggs set, push cooked edges toward the center, letting uncooked portion flow underneath. When the eggs are set, place ham on one side and sprinkle with cheese; fold other side over filling. Slide omelet onto a plate.",
@@ -12,7 +12,7 @@
     },
     {
       "id": "2",
-      "name": "Rise and Shine Parfait",
+      "recipeName": "Rise and Shine Parfait",
       "totalPrepTime": "15 min",
       "directions1": "Layer half the yogurt, peaches, blackberries and granola into 4 parfait glasses. Repeat layers.",
       "ingredients": [ "Peaches, 2 medium, chopped", "Fresh blackberries, 2 cups", "Your preference of cereal, 1/2 cup " ],
@@ -21,7 +21,7 @@
     },
     {
       "id": "3",
-      "name": "Cuban Breakfast Sandwiches",
+      "recipeName": "Cuban Breakfast Sandwiches",
       "totalPrepTime": "20 min",
       "directions1": "Split bread in half lengthwise; cut into 4 pieces. In a large skillet coated with cooking spray, fry eggs until yolks are set.",
       "directions2": "Layer bread bottoms with salami, ham, egg and cheese; replace tops. Cook on a panini maker or indoor grill for 2 minutes or until bread is browned and cheese is melted.",
@@ -33,7 +33,7 @@
   "lunchRecipes": [
     {
       "id": "1",
-      "name": "Chicken with Rosemary Butter Sauce",
+      "recipeName": "Chicken with Rosemary Butter Sauce",
       "totalPrepTime": "25 min",
       "directions1": "In a large skillet over medium heat, cook chicken in 1 tablespoon butter until a thermometer reads 165°, 4-5 minutes on each side. Remove and keep warm.",
       "directions2": "Add wine to pan; cook over medium-low heat, stirring to loosen browned bits from pan. Add cream and bring to a boil. Reduce heat; cook and stir until slightly thickened. Stir in rosemary and remaining 3 tablespoons butter until blended. Serve sauce with chicken.",
@@ -43,7 +43,7 @@
     },
     {
       "id": "2",
-      "name": "Fast Baked Fish",
+      "recipeName": "Fast Baked Fish",
       "totalPrepTime": "25 min",
       "directions1": "Preheat oven to 400°. Place fish in a greased 11x7-in. baking dish. Sprinkle with seasoned salt, pepper and, if desired, paprika. Drizzle with butter.",
       "directions2": "Cover and bake until fish just begins to flake easily with a fork, 15-20 minutes.",
@@ -53,7 +53,7 @@
     },
     {
       "id": "3",
-      "name": "Cuban Breakfast Sandwiches",
+      "recipeName": "Cuban Breakfast Sandwiches",
       "totalPrepTime": "20 min",
       "directions1": "Split bread in half lengthwise; cut into 4 pieces. In a large skillet coated with cooking spray, fry eggs until yolks are set.",
       "directions2": "Layer bread bottoms with salami, ham, egg and cheese; replace tops. Cook on a panini maker or indoor grill for 2 minutes or until bread is browned and cheese is melted.",
@@ -65,7 +65,7 @@
   "dinnerRecipes": [
     {
       "id": "1",
-      "name": "Taco Pizza Squares",
+      "recipeName": "Taco Pizza Squares",
       "totalPrepTime": "25 min",
       "directions1": "Unroll pizza dough and place in a 15x10x1-in. baking pan. Spread with pizza sauce; sprinkle with the taco meat, tomatoes and cheese.",
       "directions2": "Bake at 400° until crust is golden brown, 15-20 minutes. Top with shredded lettuce and sour cream if desired.",
@@ -75,7 +75,7 @@
     },
     {
       "id": "2",
-      "name": "Orange Pomegranate Salmon",
+      "recipeName": "Orange Pomegranate Salmon",
       "totalPrepTime": "35 min",
       "directions1": "Preheat oven to 375°. Place a 28x18-in. piece of heavy-duty foil in a 15x10x1-in. baking pan. Place onion slices in a single layer on foil. Top with salmon; sprinkle with salt. Arrange orange slices over top.",
       "directions2": " Sprinkle with pomegranate seeds; drizzle with oil. Top with a second piece of foil. Bring edges of foil together on all sides and crimp to seal, forming a large packet.",
@@ -86,7 +86,7 @@
     },
     {
       "id": "3",
-      "name": "Cranberry Maple Chicken",
+      "recipeName": "Cranberry Maple Chicken",
       "totalPrepTime": "30 min",
       "directions1": "In a small saucepan, combine the cranberries, water and sugar. Cook over medium heat until berries pop, about 15 minutes.",
       "directions2": "Meanwhile, sprinkle chicken with salt and pepper. In a large nonstick skillet, cook chicken in oil over medium heat until juices run clear, 4-5 minutes on each side. Stir syrup into cranberry mixture; serve with chicken.",
