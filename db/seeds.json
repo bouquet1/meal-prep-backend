@@ -6,7 +6,18 @@
       "totalPrepTime": "18 min",
       "directions1": "In a small nonstick skillet, melt butter over medium-high heat. Whisk the eggs, water, salt and pepper. Add egg mixture to skillet (mixture should set immediately at edges). As eggs set, push cooked edges toward the center, letting uncooked portion flow underneath. When the eggs are set, place ham on one side and sprinkle with cheese; fold other side over filling. Slide omelet onto a plate.",
       "directions2": "As eggs set, push cooked edges toward the center, letting uncooked portion flow underneath. When the eggs are set, place ham on one side and sprinkle with cheese; fold other side over filling. Slide omelet onto a plate.",
-      "ingredients": [ "Butter, 1 tbsp ", "Eggs, 3", "Fully cooked ham, 1/2 cup, cubed ", "Shredded Swiss cheese, 1/4 cup", "Water, 3 tbsp", "Salt, 1/8 teaspoon", "Crushed Black Pepper, 1/8 teaspoon" ],
+      "ingredients": [ 
+        {"ing1": "Butter, 1 TBsp"},
+        {"ing2": "Eggs, 3"},
+        {"ing3": "Fully cooked ham, cubed, 1/2 cup"},
+        {"ing4": "Shredded Swiss cheese, 1/4 cup"},
+        {"ing5": "Water, 3 TBsp"},
+        {"ing6": "Salt, 1/8 tsp"},
+        {"ing7": "Crushed Black Pepper, 1/8 tsp"},
+        {"ing8": ""},
+        {"ing9": ""},
+        {"ing10": ""}
+    ],
       "image": "https://www.tasteofhome.com/wp-content/uploads/2018/01/Ham-and-Swiss-Omelet_exps90569_Webcard1306_07_2bC_RMS-8.jpg?fit=700,1024",
       "nutritionFacts": "1 omelet: 530 calories, 40g fat (19g saturated fat), 726mg cholesterol, 1551mg sodium, 4g carbohydrate (2g sugars, 0 fiber), 39g protein"
     },
@@ -15,7 +26,18 @@
       "name": "Rise and Shine Parfait",
       "totalPrepTime": "15 min",
       "directions1": "Layer half the yogurt, peaches, blackberries and granola into 4 parfait glasses. Repeat layers.",
-      "ingredients": [ "Peaches, 2 medium, chopped", "Fresh blackberries, 2 cups", "Your preference of cereal, 1/2 cup " ],
+      "ingredients": [ 
+        {"ing1": "Peaches, chopped, 2 medium"},
+        {"ing2": "Fresh blackberries, 2 cups"},
+        {"ing3": "Your preference of cereal, 1/2 cup"},
+        {"ing4": "Shredded Swiss cheese, 1/4 cup"},
+        {"ing5": ""},
+        {"ing6": ""},
+        {"ing7": ""},
+        {"ing8": ""},
+        {"ing9": ""},
+        {"ing10": ""}
+    ],
       "image": "https://www.tasteofhome.com/wp-content/uploads/2018/01/Rise-and-Shine-Parfait_EXPS_BBBZ16_178121_C07_08_4b.jpg?fit=700,1024",
       "nutritionFacts": "1 serving: 259 calories, 3g fat (0 saturated fat), 7mg cholesterol, 6mg sodium, 48g carbohydrate (27g sugars, 7g fiber), 13g protein."
     },
@@ -25,7 +47,18 @@
       "totalPrepTime": "20 min",
       "directions1": "Split bread in half lengthwise; cut into 4 pieces. In a large skillet coated with cooking spray, fry eggs until yolks are set.",
       "directions2": "Layer bread bottoms with salami, ham, egg and cheese; replace tops. Cook on a panini maker or indoor grill for 2 minutes or until bread is browned and cheese is melted.",
-      "ingredients": [ "Cuban or French bread, 1 loaf (1 pound) ", "Eggs, 4 large ", "Hard salami, 16 pieces, thinly sliced ", "Deli ham, 8 slices ", "Swiss cheese, 8 slices" ],
+      "ingredients": [ 
+        {"ing1": "Cuban or French bread, 1 loaf"},
+        {"ing2": "Eggs, 4 large"},
+        {"ing3": "Hard salami, thinly sliced, 16 pieces"},
+        {"ing4": "Deli ham, 8 slices"},
+        {"ing5": "Swiss cheese, 8 slices"},
+        {"ing6": ""},
+        {"ing7": ""},
+        {"ing8": ""},
+        {"ing9": ""},
+        {"ing10": ""}
+    ],
       "image": "https://www.tasteofhome.com/wp-content/uploads/2018/01/Cuban-Breakfast-Sandwiches_exps80363_SD2401789A08_10_2bC_RMS-11.jpg?fit=700,1024",
       "nutritionFacts": "1 sandwich: 697 calories, 29g fat (12g saturated fat), 280mg cholesterol, 1949mg sodium, 61g carbohydrate (1g sugars, 3g fiber), 43g protein."
     }
@@ -37,7 +70,18 @@
       "totalPrepTime": "25 min",
       "directions1": "In a large skillet over medium heat, cook chicken in 1 tablespoon butter until a thermometer reads 165°, 4-5 minutes on each side. Remove and keep warm.",
       "directions2": "Add wine to pan; cook over medium-low heat, stirring to loosen browned bits from pan. Add cream and bring to a boil. Reduce heat; cook and stir until slightly thickened. Stir in rosemary and remaining 3 tablespoons butter until blended. Serve sauce with chicken.",
-      "ingredients": [ "Boneless skinless chicken breast halves, 4 pieces", "Butter, 4 TBsp, divided", "White wine/chicken broth, 1/2 cup ", "Heavy whipping cream, 1/2 cup ", "Minced fresh rosemary, 1 TBsp" ],
+      "ingredients": [ 
+        {"ing1": "Boneless skinless chicken breast, 4 pieces"},
+        {"ing2": "Butter, divided, 4 TBsp"},
+        {"ing3": "White wine/chicken broth, 1/2 cup"},
+        {"ing4": "Heavy whipping cream, 1/2 cup"},
+        {"ing5": "Minced fresh rosemary, 1 TBsp"},
+        {"ing6": ""},
+        {"ing7": ""},
+        {"ing8": ""},
+        {"ing9": ""},
+        {"ing10": ""}
+    ],
       "image": "https://www.tasteofhome.com/wp-content/uploads/2018/01/Chicken-with-Rosemary-Butter-Sauce_EXPS_FT20_44349_F_0123_1-6.jpg?fit=700,1024",
       "nutritionFacts": "1 chicken breast half: 411 calories, 26g fat (15g saturated fat), 158mg cholesterol, 183mg sodium, 2g carbohydrate (1g sugars, 0 fiber), 35g protein."
     },
@@ -47,7 +91,18 @@
       "totalPrepTime": "25 min",
       "directions1": "Preheat oven to 400°. Place fish in a greased 11x7-in. baking dish. Sprinkle with seasoned salt, pepper and, if desired, paprika. Drizzle with butter.",
       "directions2": "Cover and bake until fish just begins to flake easily with a fork, 15-20 minutes.",
-      "ingredients": [ "Fish fillets, 1-1/4 pounds", "Butter, 3 TBsp, melted", "Crushed Black Pepper, a pinch to taste", "Seasoned salt, 1 tsp", "Paprika, 1 TBsp, optional" ],
+      "ingredients": [ 
+        {"ing1": "Fish fillets, 1-1/4 pounds"},
+        {"ing2": "Butter, melted, 3 TBsp"},
+        {"ing3": "Crushed Black Pepper, a pinch to taste"},
+        {"ing4": "Seasoned salt, 1 tsp"},
+        {"ing5": "Paprika, 1 TBsp"},
+        {"ing6": ""},
+        {"ing7": ""},
+        {"ing8": ""},
+        {"ing9": ""},
+        {"ing10": ""}
+    ],
       "image": "https://www.tasteofhome.com/wp-content/uploads/2018/01/Fast-Baked-Fish_EXPS_DIYD20_9049_B01_16_1b-2.jpg?resize=696,696",
       "nutritionFacts": "1 serving: 259 calories, 3g fat (0 saturated fat), 7mg cholesterol, 6mg sodium, 48g carbohydrate (27g sugars, 7g fiber), 13g protein."
     },
@@ -57,7 +112,18 @@
       "totalPrepTime": "20 min",
       "directions1": "Split bread in half lengthwise; cut into 4 pieces. In a large skillet coated with cooking spray, fry eggs until yolks are set.",
       "directions2": "Layer bread bottoms with salami, ham, egg and cheese; replace tops. Cook on a panini maker or indoor grill for 2 minutes or until bread is browned and cheese is melted.",
-      "ingredients": [ "Cuban or French bread, 1 loaf (1 pound) ", "Eggs, 4 large ", "Hard salami, 16 pieces, thinly sliced ", "Deli ham, 8 slices ", "Swiss cheese, 8 slices "],
+      "ingredients": [ 
+        {"ing1": "Cuban or French bread, 1 loaf"},
+        {"ing2": "Eggs, 4 large"},
+        {"ing3": "Hard salami, thinly sliced, 16 pieces"},
+        {"ing4": "Deli ham, 8 slices"},
+        {"ing5": "Swiss cheese, 8 slices"},
+        {"ing6": ""},
+        {"ing7": ""},
+        {"ing8": ""},
+        {"ing9": ""},
+        {"ing10": ""}
+    ],
       "image": "https://www.tasteofhome.com/wp-content/uploads/2018/01/Cuban-Breakfast-Sandwiches_exps80363_SD2401789A08_10_2bC_RMS-11.jpg?fit=700,1024",
       "nutritionFacts": "1 sandwich: 697 calories, 29g fat (12g saturated fat), 280mg cholesterol, 1949mg sodium, 61g carbohydrate (1g sugars, 3g fiber), 43g protein."
     }
@@ -69,7 +135,18 @@
       "totalPrepTime": "25 min",
       "directions1": "Unroll pizza dough and place in a 15x10x1-in. baking pan. Spread with pizza sauce; sprinkle with the taco meat, tomatoes and cheese.",
       "directions2": "Bake at 400° until crust is golden brown, 15-20 minutes. Top with shredded lettuce and sour cream if desired.",
-      "ingredients": [ "Refrigerated pizza crust, 1 tube (13.8 ounces)", "Pizza sauce, 1 can (8 ounces)", "Seasoned taco meat, 2 cups", "Tomatoes, 2 medium size, seeded and chopped", "Shredded mozzarella cheese, 2 cups", "Shredded lettuce, optional", "Sour cream, optional" ],
+      "ingredients": [ 
+        {"ing1": "Refrigerated pizza crust, 1 tube (13.8 ounces)"},
+        {"ing2": "Pizza sauce, 1 can (8 ounces)"},
+        {"ing3": "Seasoned taco meat, 2 cups"},
+        {"ing4": "Tomatoes, seeded and chopped, 2 medium size"},
+        {"ing5": "Shredded mozzarella cheese, 2 cups"},
+        {"ing6": "Shredded lettuce"},
+        {"ing7": "Sour cream"},
+        {"ing8": ""},
+        {"ing9": ""},
+        {"ing10": ""}
+    ],
       "image": "https://www.tasteofhome.com/wp-content/uploads/2018/01/Taco-Pizza-Squares_EXPS_BFBZ19_17840_E01_18_2b-4.jpg?fit=700,1024",
       "nutritionFacts": "1 piece: 259 calories, 11g fat (5g saturated fat), 40mg cholesterol, 660mg sodium, 23g carbohydrate (4g sugars, 2g fiber), 17g protein."
     },
@@ -80,7 +157,18 @@
       "directions1": "Preheat oven to 375°. Place a 28x18-in. piece of heavy-duty foil in a 15x10x1-in. baking pan. Place onion slices in a single layer on foil. Top with salmon; sprinkle with salt. Arrange orange slices over top.",
       "directions2": " Sprinkle with pomegranate seeds; drizzle with oil. Top with a second piece of foil. Bring edges of foil together on all sides and crimp to seal, forming a large packet.",
       "directions3": "Bake until fish just begins to flake easily with a fork, 25-30 minutes. Be careful of escaping steam when opening packet. Remove to a serving platter; sprinkle with dill.",
-      "ingredients": [ "Skinned salmon fillet, about 2 pounds", "Red onion, 1 small, thinly sliced", "Navel orange, 1 medium, thinly sliced", "Pomegranate seeds, 1 cup", "Extra virgin olive oil, 2 TBsp", "Minced fresh dill, 1 TBsp", "Salt, 1/2 tsp" ],
+      "ingredients": [ 
+        {"ing1": "Skinned salmon fillet, about 2 pounds"},
+        {"ing2": "Red onion, thinly sliced, 1 small"},
+        {"ing3": "Navel orange, thinly sliced, 1 medium"},
+        {"ing4": "Pomegranate seeds, 1 cup"},
+        {"ing5": "Extra virgin olive oil, 2 TBsp"},
+        {"ing6": "Minced fresh dill, 1 TBsp"},
+        {"ing7": "Salt, 1/2 tsp"},
+        {"ing8": ""},
+        {"ing9": ""},
+        {"ing10": ""}
+    ],
       "image": "https://www.tasteofhome.com/wp-content/uploads/2018/01/Orange-Pomegranate-Salmon_EXPS_THCA18_180303_B01_11_1b-1.jpg?fit=700,1024",
       "nutritionFacts": "4 ounces cooked salmon: 307 calories, 19g fat (3g saturated fat), 76mg cholesterol, 274mg sodium, 8g carbohydrate (6g sugars, 1g fiber), 26g protein. Diabetic Exchanges: 4 lean meat, 1-1/2 fat, 1/2 fruit."
     },
@@ -90,7 +178,18 @@
       "totalPrepTime": "30 min",
       "directions1": "In a small saucepan, combine the cranberries, water and sugar. Cook over medium heat until berries pop, about 15 minutes.",
       "directions2": "Meanwhile, sprinkle chicken with salt and pepper. In a large nonstick skillet, cook chicken in oil over medium heat until juices run clear, 4-5 minutes on each side. Stir syrup into cranberry mixture; serve with chicken.",
-      "ingredients": [ "Fresh/Frozen cranberries, 2 cups ", "Boneless skinless chicken breast, 6 medium pieces", "Maple Syrup, 1/4 cup", "Canola oil, 1 tbsp", "Sugar, 1/3 cup", "Water, 3/4 cups", "Salt, 1/2 tsp", "Crushed Black Pepper, 1/4 tsp" ],
+      "ingredients": [ 
+        {"ing1": "Fresh/Frozen cranberries, 2 cups"},
+        {"ing2": "Boneless skinless chicken breast, 6 medium pieces"},
+        {"ing3": "Maple Syrup, 1/4 cup"},
+        {"ing4": "Canola oil, 1 tbsp"},
+        {"ing5": "Sugar, 1/3 cup"},
+        {"ing6": "Water, 3/4 cups"},
+        {"ing7": "Salt, 1/2 tsp"},
+        {"ing8": "Crushed Black Pepper, 1/4 tsp"},
+        {"ing9": ""},
+        {"ing10": ""}
+    ],
       "image": "https://www.tasteofhome.com/wp-content/uploads/2018/01/Cranberry-Maple-Chicken_EXPS_SDDJ19_32962_C07_13_6b-12.jpg?fit=700,1024",
       "nutritionFacts": "1 chicken breast half with 3 tablespoons sauce: 236 calories, 5g fat (1g saturated fat), 63mg cholesterol, 253mg sodium, 24g carbohydrate (22g sugars, 1g fiber), 23g protein."
     }
