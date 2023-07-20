@@ -57,16 +57,11 @@
       "directions1": "In a large skillet over medium heat, cook chicken in 1 tablespoon butter until a thermometer reads 165°, 4-5 minutes on each side. Remove and keep warm.",
       "directions2": "Add wine to pan; cook over medium-low heat, stirring to loosen browned bits from pan. Add cream and bring to a boil. Reduce heat; cook and stir until slightly thickened. Stir in rosemary and remaining 3 tablespoons butter until blended. Serve sauce with chicken.",
       "ingredients": [ 
-        {"ing1": "Boneless skinless chicken breast, 4 pieces"},
-        {"ing2": "Butter, divided, 4 TBsp"},
-        {"ing3": "White wine/chicken broth, 1/2 cup"},
-        {"ing4": "Heavy whipping cream, 1/2 cup"},
-        {"ing5": "Minced fresh rosemary, 1 TBsp"},
-        {"ing6": ""},
-        {"ing7": ""},
-        {"ing8": ""},
-        {"ing9": ""},
-        {"ing10": ""}
+        "Boneless skinless chicken breast, 4 pieces",
+        "Butter, divided, 4 TBsp",
+        "White wine/chicken broth, 1/2 cup",
+        "Heavy whipping cream, 1/2 cup",
+        "Minced fresh rosemary, 1 TBsp"
     ],
       "image": "https://www.tasteofhome.com/wp-content/uploads/2018/01/Chicken-with-Rosemary-Butter-Sauce_EXPS_FT20_44349_F_0123_1-6.jpg?fit=700,1024",
       "nutritionFacts": "1 chicken breast half: 411 calories, 26g fat (15g saturated fat), 158mg cholesterol, 183mg sodium, 2g carbohydrate (1g sugars, 0 fiber), 35g protein."
@@ -78,16 +73,11 @@
       "directions1": "Preheat oven to 400°. Place fish in a greased 11x7-in. baking dish. Sprinkle with seasoned salt, pepper and, if desired, paprika. Drizzle with butter.",
       "directions2": "Cover and bake until fish just begins to flake easily with a fork, 15-20 minutes.",
       "ingredients": [ 
-        {"ing1": "Fish fillets, 1-1/4 pounds"},
-        {"ing2": "Butter, melted, 3 TBsp"},
-        {"ing3": "Crushed Black Pepper, a pinch to taste"},
-        {"ing4": "Seasoned salt, 1 tsp"},
-        {"ing5": "Paprika, 1 TBsp"},
-        {"ing6": ""},
-        {"ing7": ""},
-        {"ing8": ""},
-        {"ing9": ""},
-        {"ing10": ""}
+        "Fish fillets, 1-1/4 pounds",
+        "Butter, melted, 3 TBsp",
+        "Crushed Black Pepper, a pinch to taste",
+        "Seasoned salt, 1 tsp",
+        "Paprika, 1 TBsp"
     ],
       "image": "https://www.tasteofhome.com/wp-content/uploads/2018/01/Fast-Baked-Fish_EXPS_DIYD20_9049_B01_16_1b-2.jpg?resize=696,696",
       "nutritionFacts": "1 serving: 259 calories, 3g fat (0 saturated fat), 7mg cholesterol, 6mg sodium, 48g carbohydrate (27g sugars, 7g fiber), 13g protein."
@@ -99,16 +89,11 @@
       "directions1": "Split bread in half lengthwise; cut into 4 pieces. In a large skillet coated with cooking spray, fry eggs until yolks are set.",
       "directions2": "Layer bread bottoms with salami, ham, egg and cheese; replace tops. Cook on a panini maker or indoor grill for 2 minutes or until bread is browned and cheese is melted.",
       "ingredients": [ 
-        {"ing1": "Cuban or French bread, 1 loaf"},
-        {"ing2": "Eggs, 4 large"},
-        {"ing3": "Hard salami, thinly sliced, 16 pieces"},
-        {"ing4": "Deli ham, 8 slices"},
-        {"ing5": "Swiss cheese, 8 slices"},
-        {"ing6": ""},
-        {"ing7": ""},
-        {"ing8": ""},
-        {"ing9": ""},
-        {"ing10": ""}
+        "Cuban or French bread, 1 loaf",
+        "Eggs, 4 large",
+        "Hard salami, thinly sliced, 16 pieces",
+        "Deli ham, 8 slices",
+        "Swiss cheese, 8 slices"
     ],
       "image": "https://www.tasteofhome.com/wp-content/uploads/2018/01/Cuban-Breakfast-Sandwiches_exps80363_SD2401789A08_10_2bC_RMS-11.jpg?fit=700,1024",
       "nutritionFacts": "1 sandwich: 697 calories, 29g fat (12g saturated fat), 280mg cholesterol, 1949mg sodium, 61g carbohydrate (1g sugars, 3g fiber), 43g protein."
