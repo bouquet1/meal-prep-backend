@@ -4,7 +4,7 @@
 
 Fork and clone this repo. Then install the dependencies by running:
 
-```sh
+```
 npm install
 ```
 
