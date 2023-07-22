@@ -47,6 +47,20 @@
       ],
       "image": "https://www.tasteofhome.com/wp-content/uploads/2018/01/Cuban-Breakfast-Sandwiches_exps80363_SD2401789A08_10_2bC_RMS-11.jpg?fit=700,1024",
       "nutritionFacts": "1 sandwich: 697 calories, 29g fat (12g saturated fat), 280mg cholesterol, 1949mg sodium, 61g carbohydrate (1g sugars, 3g fiber), 43g protein."
+    },
+    {
+      "recipeName": "Check POST ",
+      "totalPrepTime": "99 hrs",
+      "directions1": "lets see if Post works",
+      "directions2": "properly with ingredients list",
+      "ingredients": [
+        "Butter, 2 tbsp",
+        "Egg, 2",
+        "Cinnamon, 1 tsp"
+      ],
+      "image": "https://www.forexfactory.com/attachment/image/1920501?d=1462368520",
+      "nutritionFacts": "",
+      "id": "VWjPnSu"
     }
   ],
   "lunch": [
@@ -107,36 +121,13 @@
       "directions1": "Unroll pizza dough and place in a 15x10x1-in. baking pan. Spread with pizza sauce; sprinkle with the taco meat, tomatoes and cheese.",
       "directions2": "Bake at 400° until crust is golden brown, 15-20 minutes. Top with shredded lettuce and sour cream if desired.",
       "ingredients": [
-        {
-          "ing1": "Refrigerated pizza crust, 1 tube (13.8 ounces)"
-        },
-        {
-          "ing2": "Pizza sauce, 1 can (8 ounces)"
-        },
-        {
-          "ing3": "Seasoned taco meat, 2 cups"
-        },
-        {
-          "ing4": "Tomatoes, seeded and chopped, 2 medium size"
-        },
-        {
-          "ing5": "Shredded mozzarella cheese, 2 cups"
-        },
-        {
-          "ing6": "Shredded lettuce"
-        },
-        {
-          "ing7": "Sour cream"
-        },
-        {
-          "ing8": ""
-        },
-        {
-          "ing9": ""
-        },
-        {
-          "ing10": ""
-        }
+        "Refrigerated pizza crust, 1 tube (13.8 ounces)",
+        "Pizza sauce, 1 can (8 ounces)",
+        "Seasoned taco meat, 2 cups",
+        "Tomatoes, seeded and chopped, 2 medium size",
+        "Shredded mozzarella cheese, 2 cups",
+        "Shredded lettuce",
+        "Sour cream"
       ],
       "image": "https://www.tasteofhome.com/wp-content/uploads/2018/01/Taco-Pizza-Squares_EXPS_BFBZ19_17840_E01_18_2b-4.jpg?fit=700,1024",
       "nutritionFacts": "1 piece: 259 calories, 11g fat (5g saturated fat), 40mg cholesterol, 660mg sodium, 23g carbohydrate (4g sugars, 2g fiber), 17g protein."
@@ -149,36 +140,13 @@
       "directions2": " Sprinkle with pomegranate seeds; drizzle with oil. Top with a second piece of foil. Bring edges of foil together on all sides and crimp to seal, forming a large packet.",
       "directions3": "Bake until fish just begins to flake easily with a fork, 25-30 minutes. Be careful of escaping steam when opening packet. Remove to a serving platter; sprinkle with dill.",
       "ingredients": [
-        {
-          "ing1": "Skinned salmon fillet, about 2 pounds"
-        },
-        {
-          "ing2": "Red onion, thinly sliced, 1 small"
-        },
-        {
-          "ing3": "Navel orange, thinly sliced, 1 medium"
-        },
-        {
-          "ing4": "Pomegranate seeds, 1 cup"
-        },
-        {
-          "ing5": "Extra virgin olive oil, 2 TBsp"
-        },
-        {
-          "ing6": "Minced fresh dill, 1 TBsp"
-        },
-        {
-          "ing7": "Salt, 1/2 tsp"
-        },
-        {
-          "ing8": ""
-        },
-        {
-          "ing9": ""
-        },
-        {
-          "ing10": ""
-        }
+        "Skinned salmon fillet, about 2 pounds",
+        "Red onion, thinly sliced, 1 small",
+        "Navel orange, thinly sliced, 1 medium",
+        "Pomegranate seeds, 1 cup",
+        "Extra virgin olive oil, 2 TBsp",
+        "Minced fresh dill, 1 TBsp",
+        "Salt, 1/2 tsp"
       ],
       "image": "https://www.tasteofhome.com/wp-content/uploads/2018/01/Orange-Pomegranate-Salmon_EXPS_THCA18_180303_B01_11_1b-1.jpg?fit=700,1024",
       "nutritionFacts": "4 ounces cooked salmon: 307 calories, 19g fat (3g saturated fat), 76mg cholesterol, 274mg sodium, 8g carbohydrate (6g sugars, 1g fiber), 26g protein. Diabetic Exchanges: 4 lean meat, 1-1/2 fat, 1/2 fruit."
@@ -190,36 +158,14 @@
       "directions1": "In a small saucepan, combine the cranberries, water and sugar. Cook over medium heat until berries pop, about 15 minutes.",
       "directions2": "Meanwhile, sprinkle chicken with salt and pepper. In a large nonstick skillet, cook chicken in oil over medium heat until juices run clear, 4-5 minutes on each side. Stir syrup into cranberry mixture; serve with chicken.",
       "ingredients": [
-        {
-          "ing1": "Fresh/Frozen cranberries, 2 cups"
-        },
-        {
-          "ing2": "Boneless skinless chicken breast, 6 medium pieces"
-        },
-        {
-          "ing3": "Maple Syrup, 1/4 cup"
-        },
-        {
-          "ing4": "Canola oil, 1 tbsp"
-        },
-        {
-          "ing5": "Sugar, 1/3 cup"
-        },
-        {
-          "ing6": "Water, 3/4 cups"
-        },
-        {
-          "ing7": "Salt, 1/2 tsp"
-        },
-        {
-          "ing8": "Crushed Black Pepper, 1/4 tsp"
-        },
-        {
-          "ing9": ""
-        },
-        {
-          "ing10": ""
-        }
+        "Fresh/Frozen cranberries, 2 cups",
+        "Boneless skinless chicken breast, 6 medium pieces",
+        "Maple Syrup, 1/4 cup",
+        "Canola oil, 1 tbsp",
+        "Sugar, 1/3 cup",
+        "Water, 3/4 cups",
+        "Salt, 1/2 tsp",
+        "Crushed Black Pepper, 1/4 tsp"
       ],
       "image": "https://www.tasteofhome.com/wp-content/uploads/2018/01/Cranberry-Maple-Chicken_EXPS_SDDJ19_32962_C07_13_6b-12.jpg?fit=700,1024",
       "nutritionFacts": "1 chicken breast half with 3 tablespoons sauce: 236 calories, 5g fat (1g saturated fat), 63mg cholesterol, 253mg sodium, 24g carbohydrate (22g sugars, 1g fiber), 23g protein."
