@@ -49,7 +49,7 @@
       "nutritionFacts": "1 sandwich: 697 calories, 29g fat (12g saturated fat), 280mg cholesterol, 1949mg sodium, 61g carbohydrate (1g sugars, 3g fiber), 43g protein."
     },
     {
-      "recipeName": "Check POST ",
+      "name": "Check POST ",
       "totalPrepTime": "99 hrs",
       "directions1": "lets see if Post works",
       "directions2": "properly with ingredients list",
