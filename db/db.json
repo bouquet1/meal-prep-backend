@@ -3,7 +3,7 @@
     {
       "id": "1",
       "name": "Ham and Swiss Omelet",
-      "totalPrepTime": "18 min",
+      "totalPrepTime": "18 min ",
       "directions1": "In a small nonstick skillet, melt butter over medium-high heat. Whisk the eggs, water, salt and pepper. Add egg mixture to skillet (mixture should set immediately at edges). As eggs set, push cooked edges toward the center, letting uncooked portion flow underneath. When the eggs are set, place ham on one side and sprinkle with cheese; fold other side over filling. Slide omelet onto a plate.",
       "directions2": "As eggs set, push cooked edges toward the center, letting uncooked portion flow underneath. When the eggs are set, place ham on one side and sprinkle with cheese; fold other side over filling. Slide omelet onto a plate.",
       "ingredients": [
@@ -23,12 +23,12 @@
       "name": "Rise and Shine Parfait",
       "totalPrepTime": "15 min",
       "directions1": "Layer half the yogurt, peaches, blackberries and granola into 4 parfait glasses. Repeat layers.",
-      "ingredients": [
+ "ingredients": [ 
         "Peaches, chopped, 2 medium",
         "Fresh blackberries, 2 cups",
         "Your preference of cereal, 1/2 cup",
         "Shredded Swiss cheese, 1/4 cup"
-      ],
+    ],
       "image": "https://www.tasteofhome.com/wp-content/uploads/2018/01/Rise-and-Shine-Parfait_EXPS_BBBZ16_178121_C07_08_4b.jpg?fit=700,1024",
       "nutritionFacts": "1 serving: 259 calories, 3g fat (0 saturated fat), 7mg cholesterol, 6mg sodium, 48g carbohydrate (27g sugars, 7g fiber), 13g protein."
     },
